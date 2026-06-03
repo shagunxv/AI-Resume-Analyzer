@@ -111,3 +111,8 @@ Shagun Ojha
 
 <img width="1366" height="768" alt="ats_score" src="https://github.com/user-attachments/assets/4c9d00c3-8898-4771-a0bd-84c414a72209" />
 <img width="1366" height="768" alt="skill_analysis" src="https://github.com/user-attachments/assets/3a40e682-136d-4278-b203-1d31ac4b5839" />
+
+
+🚀 Open in Google Colab
+
+https://colab.research.google.com/drive/14svnIstEXq2wHIBYdYAcIwGwWWHe5VHC#scrollTo=MWD2I9DGye_w
