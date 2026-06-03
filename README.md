@@ -59,16 +59,6 @@ AI-Resume-Analyzer/
 🔹 Visual Reports
 - Pie charts and graphical insights
 
-📸 Screenshots
-
-> Add screenshots here after completing the project.
-
-Example:
-
-```plaintext
-screenshots/ats_score.png
-screenshots/skill_analysis.png
-```
 
 ⚙️ Installation
 
@@ -117,3 +107,7 @@ If you found this project useful, consider giving it a star ⭐ on GitHub.
 
 Shagun Ojha
 
+📸 Screenshots
+
+<img width="1366" height="768" alt="ats_score" src="https://github.com/user-attachments/assets/4c9d00c3-8898-4771-a0bd-84c414a72209" />
+<img width="1366" height="768" alt="skill_analysis" src="https://github.com/user-attachments/assets/3a40e682-136d-4278-b203-1d31ac4b5839" />
